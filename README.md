@@ -2,6 +2,10 @@
 
 A simple image slider built with HTML, CSS, and JavaScript.
 
+Live Link
+
+https://image-slider-gamma-orcin.vercel.app/
+
 ## Features
 
 - Automatic slide change every 5 seconds
